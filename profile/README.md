@@ -2,7 +2,8 @@
 
 # Welcome to the Placer-Development Organization site. 👋
 
-
+##
+Placer County Repositories are stored internally on Azure DevOps Server https://itddevops.placer.ca.gov/
 
 <!--
 
